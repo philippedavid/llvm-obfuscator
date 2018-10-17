@@ -54,3 +54,12 @@ https://github.com/obfuscator-llvm/obfuscator/wiki
 * Bogus Control Flow -mllvm -bcf
 * Control Flow Flattening -mllvm -fla
 * String Obfuscation -mllvm -sobf
+
+
+Install normal LLVM 5 with the default exe.
+
+Find Visual Studio 17 compatibility changes.
+
+Build LLVMO -> then build VS15 exe versino using visual studio.
+
+Install new exe.
